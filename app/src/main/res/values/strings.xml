@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Web Apps</string>
+    <string name="et_url">กรุณา ยัด URL</string>
+    <string name="btn_search">ไป...</string>
+</resources>
